@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "FussyDuck",
+      "id": 45237201,
+      "comment_id": 810890815,
+      "created_at": "2021-03-31T08:43:01Z",
+      "repoId": 353278598,
+      "pullRequestNo": 2
+    }
+  ]
 }
