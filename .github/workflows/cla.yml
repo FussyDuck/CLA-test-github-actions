@@ -21,7 +21,7 @@ jobs:
           path-to-signatures: 'signatures/version1/cla.json'
           path-to-document: 'https://gist.githubusercontent.com/FussyDuck/3dac8d0d4070876e121d7eaca083e343/raw/b666b0b2ccb44fa3515d0229e7851195204cb247/ECMWF-CLA' # e.g. a CLA or a DCO document
           # branch should not be protected
-          branch: 'master'
+          branch: 'main'
           #allowlist: 
 
          #below are the optional inputs - If the optional inputs are not given, then default values will be taken
